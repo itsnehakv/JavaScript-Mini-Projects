@@ -1,0 +1,16 @@
+h1 {
+  color: darkcyan;
+  font-family: Andalé Mono, monospace;
+}
+body {
+  background-color: blanchedalmond;
+}
+button {
+  border-radius: 5px;
+  color: #045c1c;
+  background-color: cadetblue;
+}
+p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+}
