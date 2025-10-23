@@ -1,0 +1,15 @@
+#heading {
+  text-align: center;
+  font-family: "Lucida Bright", serif;
+  margin-top: 50px;
+  color: #0ccb1f;
+}
+#green {
+  background-color: green;
+}
+#red {
+  background-color: red;
+}
+#yellow {
+  background-color: yellow;
+}
